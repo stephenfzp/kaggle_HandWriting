@@ -1,0 +1,4 @@
+Training set has 42000 rows and 785 columns
+Test set has 28000 rows and 784 columns
+
+
